@@ -13,9 +13,9 @@
 
   <div><br></br></div>
   
-### About Me:
+# About Me:
 
-Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Computação, em busca de novos conhecimentos e oportunidades, tenho o objetivo de me tornar um desenvolvedor FullStack
+Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Computação, em busca de novos conhecimentos e oportunidades, tenho o objetivo de me tornar um desenvolvedor FullStack.
 
 <div><br></br></div>
 
@@ -51,7 +51,7 @@ Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Comput
   
   ### Contato:
   
-  Se quiser trocar uma ideia, pode me adicionar no github ou Linkedin
+  Se quiser trocar uma ideia, pode me adicionar no github ou Linkedin.
   
 <div align="center">  
 <a href="https://www.linkedin.com/in/luis-eduardo-silva-dos-santos/" target="_blank"><img width=100% src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0093E9,100:0093E9&height=70&section=header&text=LinkedIn!&fontSize=35&fontColor=c0c1c0&animation=fadeIn&fontAlignY=50&fontAlign=50"</a>
