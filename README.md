@@ -42,7 +42,7 @@ Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Comput
 
 <div><br></br></div>
   
-### Studying:
+### Estudando:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=Kotlin&labelColor=0D1117)&nbsp; 
 
@@ -59,8 +59,4 @@ Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Comput
   
   <div><br></br></div>
   
-  <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisEDS}/count.svg" /></p> 
-<br></div>
   
