@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuisEDS&show_icons=true&count_private=true&hide_border=true&title_color=00FF80&icon_color=00FF80&text_color=00FF80&bg_color=0d1117" alt="Luis Eduardo Silva Dos Santos github stats" /> 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEDS)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisEDS&hide=contribs,prs)
 
 
  
