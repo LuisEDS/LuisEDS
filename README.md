@@ -18,7 +18,7 @@
   
 # About Me:
 
-Me chamo Luis Eduardo, tenho 22 anos, estou no 5ºsemestre de Ciência da Computação, em busca de novos conhecimentos e oportunidades, tenho o objetivo de me tornar um desenvolvedor FullStack.
+Me chamo Luis Eduardo, tenho 21 anos, estou no 6ºsemestre de Ciência da Computação, em busca de novos conhecimentos e oportunidades, tenho o objetivo de me tornar um desenvolvedor FullStack.
 
 <div><br></br></div>
 
