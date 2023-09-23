@@ -11,7 +11,7 @@
   
 <div><br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuisEDS&custom_title=LuisEDS's%20Contribution%20Graph&hide_border=true&bg_color=0d1117&title_color=00FF80&line=00FF80&point=00FF80&area_color=00FF80&bg_color=0093E9&area=true&theme=react)](https://github.com/LuisEDS/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuisEDS&bg_color=46162f&color=d1ccd1&line=0d961d&point=a5a1a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div><br></br></div>
   
